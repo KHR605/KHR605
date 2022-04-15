@@ -20,6 +20,7 @@ Here are some ideas to get you started:
   <h3>⚡Tech Stack</h3>
 
   [![JAVA Badge](http://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=JAVA&link=https://KHR605.github.io/)](https://KHR605.github.io/)
+  
   [![Kotlin Badge](http://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white&link=https://KHR605.github.io/)](https://KHR605.github.io/)
   [![C Badge](http://img.shields.io/badge/-C-red?style=flat-square&logo=C&logoColor=white&link=https://KHR605.github.io/)](https://KHR605.github.io/)
   [![JavaScript Badge](http://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white&link=https://KHR605.github.io/)](https://KHR605.github.io/)
@@ -46,5 +47,5 @@ Here are some ideas to get you started:
   
   
   [![Spring Badge](http://img.shields.io/badge/-Python-skyblue?style=flat-square&logo=Python&logoColor=3776AB&link=https://KHR605.github.io/)](https://KHR605.github.io/)
-  [![PHP Badge](http://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white&link=https://KHR605.github.io/)](https://KHR605.github.io/)
+  [![PHP Badge](http://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white&link=https://KHR605.github.io/)](https://KHR605.github.io/) ...
 </div>
