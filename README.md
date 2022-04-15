@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <h3>⚡ Tech Stack ⚡</h3>
   
   
-  
+  <br>
   <img src="http://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=JAVA&link=https://KHR605.github.io"
        style="height:25px; margin-left : 10px; margin-right : 10px;"/>
   <img src="http://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white&link=https://KHR605.github.io"
@@ -44,10 +44,13 @@ Here are some ideas to get you started:
        style="height:25px; margin-left : 10px; margin-right : 10px;"/>
   <img src="http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&link=https://KHR605.github.io"
        style="height:25px; margin-left : 10px; margin-right : 10px;"/>
-
+  
+ <br>
  <hr>
+
   <h3>🔭 Tool</h3>
   
+  <br>
   <img src="http://img.shields.io/badge/-Eclipse-black?style=flat-square&logo=Eclipse&logoColor=5C2D91&link=https://KHR605.github.io"
       style="height:25px; margin-left : 10px; margin-right : 10px;"/>
   <img src="http://img.shields.io/badge/-AndrodiStudio-black?style=flat-square&logo=Android&link=https://KHR605.github.io"
@@ -60,8 +63,9 @@ Here are some ideas to get you started:
         style="height:25px; margin-left : 10px; margin-right : 10px;"/>
   <img src="http://img.shields.io/badge/-STS-black?style=flat-square&logo=Spring&logoColor=6DB33F&link=https://KHR605.github.io"
        style="height:25px; margin-left : 10px; margin-right : 10px;"/>
-  
+   <br>
   <hr>
+ 
   <h3>🌱 Studying</h3>
   
   
