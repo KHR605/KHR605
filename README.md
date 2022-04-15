@@ -30,4 +30,6 @@ Here are some ideas to get you started:
   [![Oracle Badge](http://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white&link=https://KHR605.github.io/)](https://KHR605.github.io/)
   [![MySQL Badge](http://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://KHR605.github.io/)](https://KHR605.github.io/)
   [![GitHub Badge](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&link=https://KHR605.github.io/)](https://KHR605.github.io/)
+  
+  
 </div>
