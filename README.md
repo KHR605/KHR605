@@ -70,5 +70,7 @@ Here are some ideas to get you started:
   
   
   [![Spring Badge](http://img.shields.io/badge/-Python-skyblue?style=flat-square&logo=Python&logoColor=3776AB&link=https://KHR605.github.io/)](https://KHR605.github.io/)
-  [![PHP Badge](http://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white&link=https://KHR605.github.io/)](https://KHR605.github.io/) ...
+  [![PHP Badge](http://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white&link=https://KHR605.github.io/)](https://KHR605.github.io/)
+  [![Linux Badge](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black&link=https://KHR605.github.io/)](https://KHR605.github.io/)
+  ...
 </div>
