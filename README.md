@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![JAVA Badge](http://img.shields.io/badge/-JAVA%20blog-blue?style=flat-square&logo=github&link=https://KHR605.github.io/)](https://KHR605.github.io/)
+</div>
