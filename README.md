@@ -1,4 +1,4 @@
-<div align=center>
+
 ### Hi there 👋
 
 <!--
@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align=center>
 [![JAVA Badge](http://img.shields.io/badge/-JAVA%20blog-blue?style=flat-square&logo=github&link=https://KHR605.github.io/)](https://KHR605.github.io/)
 </div>
