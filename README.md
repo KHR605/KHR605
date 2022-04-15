@@ -35,8 +35,8 @@ Here are some ideas to get you started:
  <hr>
   <h3>Tool</h3>
   
-  [![Android Badge](http://img.shields.io/badge/-AndrodiStudio-black?style=flat-square&logo=Android&link=https://KHR605.github.io/)](https://KHR605.github.io/)
   [![Eclipse Badge](http://img.shields.io/badge/-Eclipse-black?style=flat-square&logo=Eclipse&logoColor=5C2D91&link=https://KHR605.github.io/)](https://KHR605.github.io/)
+  [![Android Badge](http://img.shields.io/badge/-AndrodiStudio-black?style=flat-square&logo=Android&link=https://KHR605.github.io/)](https://KHR605.github.io/)
   [![VisualSutdio Badge](http://img.shields.io/badge/-VisualStudio-black?style=flat-square&logo=VisualStudio&logoColor=5C2D91&link=https://KHR605.github.io/)](https://KHR605.github.io/)
    [![VisualSutdioCode Badge](http://img.shields.io/badge/-VisualStudioCode-black?style=flat-square&logo=VisualStudioCode&logoColor=007ACC&link=https://KHR605.github.io/)](https://KHR605.github.io/)
    [![SublimeText Badge](http://img.shields.io/badge/-SublimeText-black?style=flat-square&logo=SublimeText&logoColor=FF9800&link=https://KHR605.github.io/)](https://KHR605.github.io/)
