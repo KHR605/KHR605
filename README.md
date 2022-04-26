@@ -73,5 +73,6 @@ Here are some ideas to get you started:
   [![PHP Badge](http://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white&link=https://KHR605.github.io/)](https://KHR605.github.io/)
   [![Linux Badge](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black&link=https://KHR605.github.io/)](https://KHR605.github.io/)
   [![Kotlin Badge](http://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white&link=https://KHR605.github.io/)](https://KHR605.github.io/)
+  [![React Badge](http://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&link=https://KHR605.github.io/)](https://KHR605.github.io/)
   <br>.<br>.<br>.
 </div>
